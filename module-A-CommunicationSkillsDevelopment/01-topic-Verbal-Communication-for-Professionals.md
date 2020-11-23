@@ -40,22 +40,22 @@ Description to lecture content (50 - 100 words)
 Lets start with 
 
 * Basics of commiunication
-** Recognizing the audience
-** Topic Selection
-** Event Selection
-** Time of day / prior lunch / after lunch
-** Planning to do a speech / Discussion
-** Formality : Formal / semi-formal / casual
+* Recognizing the audience
+* Topic Selection
+* Event Selection
+* Time of day / prior lunch / after lunch
+* Planning to do a speech / Discussion
+* Formality : Formal / semi-formal / casual
 
 * Planning to do a speech
-** How to organize your content
-** How to organize your speech
-** The start - body and how to end with a punch.
+* How to organize your content
+* How to organize your speech
+* The start - body and how to end with a punch.
 
 * When to talk and when to listen
-** Active listening
-*** Round Robin Session ( should be fully active lessoning )
-*** Table Topic Session (  )
+* Active listening
+* Round Robin Session ( should be fully active lessoning )
+* Table Topic Session (  )
 
 ---
 ---
