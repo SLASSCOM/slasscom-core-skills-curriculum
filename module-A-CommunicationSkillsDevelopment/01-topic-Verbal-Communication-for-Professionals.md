@@ -1,16 +1,17 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > {{Topic Name}}
+[Home](../README.md) > [{{Module Name}}](./README.md) > Verbal Communication for Professionals
 
-# Topic: {{Topic Name}}
+# Topic: Verbal Communication for Professionals
 
-* Lesson 1: [{{Lesson name}}](#lesson-1)
+* Lesson 1: [Introduction to Communication](#lesson-1-Introduction-to-Communication)
 * Lesson 2: [{{Lesson name}}](#lesson-1)
 * Lesson 3: [{{Lesson name}}](#lesson-1)
 * Assignment 1: [Talk about your self](#assignment-1-talk-about-your-self)
+* Assignment 2: [Present about a research you have done](#assignment-2-present-about-a-research-you-have-done)
 
 ---
 ---
 
-## Lesson 1: {{Lesson name}}
+## Lesson 1: Introduction to Communication
 
 <dl>
 <dt>Time</dt>
