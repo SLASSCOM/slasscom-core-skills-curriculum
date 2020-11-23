@@ -16,7 +16,14 @@ a {
     font-weight: 400;
 }
 
+
+header {
+    background-color: #438789;
+}
+
 header li {
     font-size: 13px;
     width: 150px;
+    background: black;
+    box-shadow: inset 0px 1px 1px 0 #438789;
 }
