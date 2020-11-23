@@ -5,7 +5,7 @@
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)
 * Lesson 3: [{{Lesson name}}](#lesson-1)
-* Assignment 1: [Talk about your self](#assignment-1)
+* Assignment 1: [Talk about your self](#assignment-1-talk-about-your-self)
 
 ---
 ---
