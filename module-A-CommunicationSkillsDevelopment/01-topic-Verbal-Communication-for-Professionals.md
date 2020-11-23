@@ -5,7 +5,7 @@
 * Lesson 1: [{{Lesson name}}](#lesson-1)
 * Lesson 2: [{{Lesson name}}](#lesson-1)
 * Lesson 3: [{{Lesson name}}](#lesson-1)
-* Assignment 1: [{{Assignment name}}](#assignment-1)
+* Assignment 1: [Talk about your self](#assignment-1)
 
 ---
 ---
@@ -60,7 +60,7 @@ Lets start with
 ---
 ---
 
-## Assignment 1: {{Talk about your self}}
+## Assignment 1: Talk about your self
 
 <dl>
 <dt>Assignment Duration</dt>
@@ -72,7 +72,7 @@ Lets start with
 Not just your name , age and school. You should tell a story about your self and market your self.
 
 
-## Assignment 2: {{Present about a research you have done}}
+## Assignment 2: Present about a research you have done
 
 <dl>
 <dt>Assignment Duration</dt>
