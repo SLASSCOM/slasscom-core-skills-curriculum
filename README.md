@@ -1,4 +1,4 @@
-# Visual Design and Multimedia Curriculum
+# Core Skills Curriculum
 
 Diploma level curriculum as a guidance to educational institutes. Visit [Curriculum Website](https://slasscom.github.io/slasscom-core-skills-curriculum) for more details
 
