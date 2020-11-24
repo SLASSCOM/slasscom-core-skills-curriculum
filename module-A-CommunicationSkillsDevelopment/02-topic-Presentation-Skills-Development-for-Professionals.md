@@ -49,7 +49,7 @@
 
 Before Lecture:
 
-* [7 Ways to Structure Your Presentation to Keep Your Audience Wanting More](./#https://visme.co/blog/presentation-structure/)
+* [7 Ways to Structure Your Presentation to Keep Your Audience Wanting More](https://visme.co/blog/presentation-structure/)
 * [link description](./#)
 
 After Lecture:
