@@ -24,6 +24,8 @@ Module description and why the content is important in the industry (~ 50 words)
 ## Learning Outcomes
 
 - learning outcome 1
+  - sub list item
+  - sublist item
 - learning outcome 2
 - learning outcome 3
 - learning outcome 4
