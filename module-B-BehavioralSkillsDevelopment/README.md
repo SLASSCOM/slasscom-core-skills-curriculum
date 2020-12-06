@@ -7,7 +7,6 @@
 <dl>
 <dt>Total Duration</dt>
 <dd>~ xx hours</dd>
-<dd>TEST BY RU</dd>
 <dt>Number of Topics</dt>
 <dd>x</dd>
 </dl>
