@@ -1,6 +1,6 @@
-[Home](../index.md) > {{Module Name}}
+[Home](../index.md) > Launching your Career
 
-# Module: {{Module Name}}
+# Module: Launching your Career
 
 > Short module description (~10 words)
 
@@ -8,7 +8,7 @@
 <dt>Total Duration</dt>
 <dd>~ xx hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>5</dd>
 </dl>
 
 ## Introduction
@@ -17,9 +17,12 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Topic A](./topic-a.md)
-1. [Topic B](./topic-a.md)
-1. [Topic C](./topic-a.md)
+1. [Industry Roles and Related Skills](./industry-roles.md)
+1. [Selecting a Role](./select-a-role.md)
+1. [Resume Writing](./resume-writing.md)
+1. [Interview Skills and Preparation](./interview-skills.md)
+1. [Professional Networking](./networking.md)
+
 
 ## Learning Outcomes
 
