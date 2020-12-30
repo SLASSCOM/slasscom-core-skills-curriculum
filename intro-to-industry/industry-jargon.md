@@ -1,6 +1,6 @@
-[Home](../index.md) > [{{Module Name}}](./index.md) > {{Topic Name}}
+[Home](../index.md) > [Introduction to Industry](./index.md) > Industry Jargon
 
-# Topic: {{Topic Name}}
+# Topic: Industry Jargon
 
 * Lesson: [{{Lesson name}}](#lesson-name)
 * Lesson: [{{Lesson name}}](#lesson-name)
