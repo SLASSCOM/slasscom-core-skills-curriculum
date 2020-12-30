@@ -1,6 +1,6 @@
-[Home](../index.md) > [Behavioral Skills](./index.md) > Fostering relationships
+[Home](../index.md) > [Learning Skills and Industry Contribution](./index.md) > Learning Concepts
 
-# Topic: Fostering relationships
+# Topic: Learning Concepts
 
 * Lesson: [{{Lesson name}}](#lesson-name)
 * Lesson: [{{Lesson name}}](#lesson-name)

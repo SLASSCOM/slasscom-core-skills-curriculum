@@ -1,6 +1,6 @@
-[Home](../index.md) > [Behavioral Skills](./index.md) > Fostering relationships
+[Home](../index.md) > [Learning Skills and Industry Contribution](./index.md) > Participation in competitions
 
-# Topic: Fostering relationships
+# Topic: Participation in competitions
 
 * Lesson: [{{Lesson name}}](#lesson-name)
 * Lesson: [{{Lesson name}}](#lesson-name)

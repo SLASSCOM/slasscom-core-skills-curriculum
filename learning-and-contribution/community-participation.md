@@ -1,6 +1,6 @@
-[Home](../index.md) > [Behavioral Skills](./index.md) > Fostering relationships
+[Home](../index.md) > [Learning Skills and Industry Contribution](./index.md) > Community participation
 
-# Topic: Fostering relationships
+# Topic: Community participation
 
 * Lesson: [{{Lesson name}}](#lesson-name)
 * Lesson: [{{Lesson name}}](#lesson-name)

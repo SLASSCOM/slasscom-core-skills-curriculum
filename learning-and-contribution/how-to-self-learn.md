@@ -1,6 +1,6 @@
-[Home](../index.md) > [Behavioral Skills](./index.md) > Fostering relationships
+[Home](../index.md) > [Learning Skills and Industry Contribution](./index.md) > How to self learn
 
-# Topic: Fostering relationships
+# Topic: How to self learn
 
 * Lesson: [{{Lesson name}}](#lesson-name)
 * Lesson: [{{Lesson name}}](#lesson-name)

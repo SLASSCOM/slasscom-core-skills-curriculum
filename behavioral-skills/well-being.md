@@ -2,10 +2,10 @@
 
 # Topic: Well being
 
-* Lesson: [{{Lesson name}}](#Lesson-name)
-* Lesson: [{{Lesson name}}](#Lesson-name)
-* Lesson: [{{Lesson name}}](#Lesson-name)
-* Assignment: {{Assignment name}}: [{{Assignment name}}](#Assignment-name)
+* Lesson: [{{Lesson name}}](#lesson-name)
+* Lesson: [{{Lesson name}}](#lesson-name)
+* Lesson: [{{Lesson name}}](#lesson-name)
+* Assignment: {{Assignment name}}: [{{Assignment name}}](#assignment-name)
 
 
 ## {{Lesson name}}
