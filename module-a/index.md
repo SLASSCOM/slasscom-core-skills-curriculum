@@ -17,9 +17,9 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Topic A](./topic-a.md)
+2. [Topic B](./topic-a.md)
+3. [Topic C](./topic-a.md)
 
 ## Learning Outcomes
 

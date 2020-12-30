@@ -1,0 +1,62 @@
+[Home](../index.md) > [Managing Yourself at Work](./index.md) > Relationship with Technology
+
+# Topic: Relationship with Technology
+
+* Lesson: [{{Lesson name}}](#lesson-name)
+* Lesson: [{{Lesson name}}](#lesson-name)
+* Lesson: [{{Lesson name}}](#lesson-name)
+* Assignment: [{{Assignment name}}](#assignment-name)
+
+
+## {{Lesson name}}
+
+<dl>
+<dt>Self learning Duration</dt>
+<dd>xx mins</dd>
+<dt>Lecture/Lab Duration</dt>
+<dd>xx mins</dd>
+</dl>
+
+### Self learning content
+
+Before Lecture:
+
+* [link description](./#)
+* [link description](./#)
+
+After Lecture:
+
+* [link description](./#)
+
+### Lecture/Lab description
+
+Description to lecture content (50 - 100 words)
+
+* teaching point 1
+* teaching point 2
+* teaching point 3
+
+
+
+## {{Assignment name}}
+
+<dl>
+<dt>Assignment Duration</dt>
+<dd>xx mins</dd>
+</dl>
+
+### Assignment description
+
+Description to assignment to complete
+
+
+## -- Contributors --
+
+### Content writing
+
+* [TBA](./#linkedin-url)
+* [TBA](./#linkedin-url)
+
+### Reviewers
+
+* [TBA](./#linkedin-url)
