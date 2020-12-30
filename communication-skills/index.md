@@ -17,12 +17,12 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Verbal Communication for Professionals](./verbal-communication-for-professionals.md)
-1. [Presentation Skills for Professionals](./presentation-skills-for-professionals.md)
-1. [Written Communication for Professionals](./written-communication-for-professionals.md)
-1. [Communication in a remote setup](./communication-in-a-remote-setup.md)
-1. [Different communication mediums](./different-communication-mediums.md)
-1. [Cultural factors in global teams](./cultural-factors-in-global-teams.md)
+1. [Verbal Communication for Professionals](./verbal-communication-professionals.md)
+1. [Presentation Skills for Professionals](./presentation-skills-professionals.md)
+1. [Written Communication for Professionals](./written-communication-professionals.md)
+1. [Communication in a remote setup](./communication-in-remote-setup.md)
+1. [Different communication mediums](./communication-mediums.md)
+1. [Cultural factors in global teams](./cultural-factors-global-teams.md)
 
 ## Learning Outcomes
 
