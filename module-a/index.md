@@ -1,4 +1,4 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../index.md) > {{Module Name}}
 
 # Module: {{Module Name}}
 

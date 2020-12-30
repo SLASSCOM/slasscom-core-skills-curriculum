@@ -1,6 +1,6 @@
-[Home](../index.md) > [{{Module Name}}](./index.md) > {{Topic Name}}
+[Home](../index.md) > [Communication Skills](./index.md) > Different communication mediums
 
-# Topic: {{Topic Name}}
+# Topic: Different communication mediums
 
 * Lesson: [{{Lesson name}}](#Lesson-name)
 * Lesson: [{{Lesson name}}](#Lesson-name)

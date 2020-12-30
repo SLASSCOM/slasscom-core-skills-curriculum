@@ -1,8 +1,8 @@
-[Home](./README.md) > How to Contribute
+[Home](./index.md) > How to Contribute
 
 # How to Contribute
 
-**Before stepping-in, please ensure you have read and understood the [Underline Principles](./README.md#underline-principles) of this curriculum**
+**Before stepping-in, please ensure you have read and understood the [Underline Principles](./index.md#underline-principles) of this curriculum**
 
 What to contribute:
 

@@ -1,4 +1,4 @@
-[Home](../README.md) > [{{Module Name}}](./README.md) > Emotional Intelligence
+[Home](../index.md) > [{{Module Name}}](./index.md) > Emotional Intelligence
 
 # Topic: Emotional Intelligence
 

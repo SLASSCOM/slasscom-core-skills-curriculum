@@ -1,6 +1,6 @@
-[Home](../index.md) > [{{Module Name}}](./index.md) > {{Topic Name}}
+[Home](../index.md) > [Communication Skills](./index.md) > Communication in a remote setup
 
-# Topic: {{Topic Name}}
+# Topic: Communication in a remote setup
 
 * Lesson: [{{Lesson name}}](#Lesson-name)
 * Lesson: [{{Lesson name}}](#Lesson-name)

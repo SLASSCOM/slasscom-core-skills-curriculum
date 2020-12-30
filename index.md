@@ -17,9 +17,14 @@ This model curriculum is to be used as guidance by educational institutes in tea
 
 | Module                         | Details                                                   |
 | ------------------------------ | --------------------------------------------------------- |
-| Module A         | [View Topics](./module-a/README.md)    |
-| Module B         | [View Topics](./module-a/README.md)    |
-| Module C         | [View Topics](./module-a/README.md)    |
+| Communication Skills                      | [View Topics](./communication-skills/index.md)    |
+| Behavioral Skills Development             | [View Topics](./behavioral-skills/index.md)    |
+| Learning Skills and Industry Contribution | [View Topics](./learning-and-contribution/index.md)    |
+| Analytical Skills                         | [View Topics](./analytical-skills/index.md)    |
+| Managing Yourself at Work                 | [View Topics](./managing-at-work/index.md)    |
+| Launching your Career                     | [View Topics](./launching-career/index.md)    |
+| Ethics                                    | [View Topics](./ethics/index.md)    |
+| Introduction to Industry                  | [View Topics](./intro-to-industry/index.md)    |
 
 ## Problem overview
 

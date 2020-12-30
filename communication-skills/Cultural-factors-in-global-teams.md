@@ -1,6 +1,6 @@
-[Home](../index.md) > [{{Module Name}}](./index.md) > {{Topic Name}}
+[Home](../index.md) > [Communication Skills](./index.md) > Cultural factors in global teams
 
-# Topic: {{Topic Name}}
+# Topic: Cultural factors in global teams
 
 * Lesson: [{{Lesson name}}](#Lesson-name)
 * Lesson: [{{Lesson name}}](#Lesson-name)
