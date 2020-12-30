@@ -5,7 +5,7 @@
 * Lesson: [{{Lesson name}}](#lesson-name)
 * Lesson: [{{Lesson name}}](#lesson-name)
 * Lesson: [{{Lesson name}}](#lesson-name)
-* Assignment: {{Assignment name}}: [{{Assignment name}}](#assignment-name)
+* Assignment:[{{Assignment name}}](#assignment-name)
 
 
 ## {{Lesson name}}
