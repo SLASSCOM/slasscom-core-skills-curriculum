@@ -2,11 +2,11 @@
 
 # Topic: Presentation Skills for Professionals
 
-* Lesson: [Introduction to Communication](#Introduction-to-Communication)
-* Lesson: [Organize your Speech](#Organize-your-Speech)
-* Lesson: [When to Talk and When to Listen](#When-to-Talk-and-When-to-Listen)
+* Lesson: [Introduction to Communication](#introduction-to-communication)
+* Lesson: [Organize your Speech](#organize-your-speech)
+* Lesson: [When to Talk and When to Listen](#when-to-talk-and-when-to-listen)
 * Assignment: [Talk about your self](#talk-about-your-self)
-* Assignmen: [Present about a research you have done](#present-about-a-research-you-have-done)
+* Assignment: [Present about a research you have done](#present-about-a-research-you-have-done)
 
 ## Introduction to Communication
 

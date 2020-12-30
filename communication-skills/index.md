@@ -8,17 +8,17 @@
 <dt>Total Duration</dt>
 <dd>~ xx hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>6</dd>
 </dl>
 
 ## Topics
 
-1. [Verbal Communication for Professionals](./Verbal-Communication-for-Professionals.md)
-1. [Presentation Skills for Professionals](./Presentation-Skills-for-Professionals.md)
-1. [Written Communication for Professionals](./Written-Communication-for-Professionals.md)
-1. [Communication in a remote setup](./Communication-in-a-remote-setup.md)
-1. [Different communication mediums](./Different-communication-mediums.md)
-1. [Cultural factors in global teams](./Cultural-factors-in-global-teams.md)
+1. [Verbal Communication for Professionals](./verbal-communication-for-professionals.md)
+1. [Presentation Skills for Professionals](./presentation-skills-for-professionals.md)
+1. [Written Communication for Professionals](./written-communication-for-professionals.md)
+1. [Communication in a remote setup](./communication-in-a-remote-setup.md)
+1. [Different communication mediums](./different-communication-mediums.md)
+1. [Cultural factors in global teams](./cultural-factors-in-global-teams.md)
 
 ## Learning Outcomes
 

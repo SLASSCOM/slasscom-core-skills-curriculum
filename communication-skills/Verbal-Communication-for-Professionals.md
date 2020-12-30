@@ -2,11 +2,11 @@
 
 # Topic: Verbal Communication for Professionals
 
-* Lesson: [Introduction to Communication](#Introduction-to-Communication)
-* Lesson: [Organize your Speech](#Organize-your-Speech)
-* Lesson: [When to Talk and When to Listen](#When-to-Talk-and-When-to-Listen)
-* Assignment: [Talk about your self](#Talk-about-your-self)
-* Assignment: [Present about a research you have done](#Present-about-a-research-you-have-done)
+* Lesson: [Introduction to Communication](#introduction-to-communication)
+* Lesson: [Organize your Speech](#organize-your-speech)
+* Lesson: [When to Talk and When to Listen](#when-to-talk-and-when-to-listen)
+* Assignment: [Talk about your self](#talk-about-your-self)
+* Assignment: [Present about a research you have done](#present-about-a-research-you-have-done)
 
 
 ## Introduction to Communication
