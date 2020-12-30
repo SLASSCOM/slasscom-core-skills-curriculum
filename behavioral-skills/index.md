@@ -1,6 +1,6 @@
-[Home](../index.md) > {{Module Name}}
+[Home](../index.md) > Behavioral Skills
 
-# Module: {{Module Name}}
+# Module: Behavioral Skills
 
 > Short module description (~10 words)
 
@@ -8,7 +8,7 @@
 <dt>Total Duration</dt>
 <dd>~ xx hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>9</dd>
 </dl>
 
 ## Introduction
@@ -21,9 +21,15 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Growth mindset](./growth-mindset.md)
+1. [Emotional intelligence](./emotional-intelligence.md)
+1. [Fostering relationships](./fostering-relationships.md)
+1. [Stakeholder management](./stakeholder-management.md)
+1. [Team work](./team-work.md)
+1. [Persuasion skills](./persuasion-skills.md)
+1. [Professional behaviour](./professional-behaviour.md)
+1. [Effective meetings](./effective-meetings.md)
+1. [Well being](./well-being.md)
 
 ## Learning Outcomes
 

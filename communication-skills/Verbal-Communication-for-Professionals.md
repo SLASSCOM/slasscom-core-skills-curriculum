@@ -79,7 +79,6 @@ This topic will cover following lessons.
 * Table Topic Session ( planning your speech and delivering it spontaniously )
 
 ## Talk about your self
-(#assignment-1)
 
 <dl>
 <dt>Assignment Duration</dt>

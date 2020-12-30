@@ -64,7 +64,6 @@ body language , vocal variety , gestures , facial expressions , ...
 
 
 ## Talk about your self
-(#assignment-1)
 
 <dl>
 <dt>Assignment Duration</dt>

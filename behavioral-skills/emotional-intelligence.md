@@ -1,4 +1,4 @@
-[Home](../index.md) > [{{Module Name}}](./index.md) > Emotional Intelligence
+[Home](../index.md) > [Behavioral Skills](./index.md) > Emotional Intelligence
 
 # Topic: Emotional Intelligence
 

@@ -11,6 +11,10 @@
 <dd>6</dd>
 </dl>
 
+## Introduction
+
+Module description and why the content is important in the industry (~ 50 words).
+
 ## Topics
 
 1. [Verbal Communication for Professionals](./verbal-communication-for-professionals.md)
